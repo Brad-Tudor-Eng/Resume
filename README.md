@@ -1,8 +1,15 @@
 Bradley L. Tudor
-640 W4th Street Unit: 111, Long Beach CA, 90802    -    Phone: 574-220-7629    -    Email: B6tudor@gmail.com
+
+640 W4th Street Unit: 111, 
+Long Beach CA, 90802
+
+Phone: 574-220-7629
+Email: B6tudor@gmail.com
+
 ------------------------------------------------------------------------------------------------------
 
 *QUALIFICATIONS SUMMARY:
+
       **Full-Stack Developer**: Result-driven Fullstack Web Developer with experience in MERN stack.  
       Completed 427 hours of coursework.  
  
@@ -13,7 +20,9 @@ Bradley L. Tudor
       CFD simulation and computer programming.
 
 ------------------------------------------------------------------------------------------------------
+
 *SOFTWARE DEVELOPMENT
+
 ------------------------------------------------------------------------------------------------------
 **HIGHLIGHTED SKILLS
 Node	Express		React		Redux		Apollo		GraphQL	    HTML	                       
@@ -27,6 +36,7 @@ Full-Stack Developer									                June. 2017 – Present
 Self-Employed (Torrence, CA)		        					 
 
 Completed Projects:
+
 •	Title: GrowCtrl										  
 -	Description: IOT Automated Greenhouse control and data logger.
 -	Involvement: 100% of code base and physical device. 
@@ -52,15 +62,21 @@ Completed Projects:
 
 
 ------------------------------------------------------------------------------------------------------
+
 *MECHANICAL ENGINEERING
+
 ------------------------------------------------------------------------------------------------------
+
 **HIGHLIGHTED SKILLS
 Project management	New product development	    Process Improvement	    Training and Leadership
 Solidworks			VBA Programming	 	        Rapid Prototyping	    Plastics Design and Processing
 FEA Analysis		Metrology			        CFD Simulation		    ASME Y14.5-2009 GD&T
 
+------------------------------------------------------------------------------------------------------
 
 **EXPERIENCE
+
+------------------------------------------------------------------------------------------------------
 
 Mechanical Engineer									                May. 2017 – Present
 Stewart Filmscreen (Torrence, CA)		        					 
@@ -75,6 +91,8 @@ Achievements:
 ·	Spear headed cross functional initiative to get quick-ship program back on track
 ·	Reduced inventory and condensed product line by developing one product to replace 5. 
 
+------------------------------------------------------------------------------------------------------
+
 Product Development Engineer									Sept 2012 – Apr 2017
 PAI Industries (Atlanta, GA)	
 		        				              
@@ -86,6 +104,8 @@ Achievements:
 ·	Developed, sourced and launched extremely successful high performance product line.
 ·	Cut production cost of HP Pins by 50% though purchase of new equipment with 4 month ROI.
 ·	Created a new system to organize the engineering data, reducing redundant work, lost / duplicate files, and confusion.
+
+------------------------------------------------------------------------------------------------------
 
 S-Body/Product Engineer									Dec. 2010 – Sept 2012
 Supreme Corporation (Goshen, IN)		        					 
@@ -102,7 +122,7 @@ Achievements:
 ·	Boosted sales thought technical support and production of custom designed units on a tight schedule.
 ·	Increased engineering output and corporate profits through training and supervision of new employees.
  
-
+------------------------------------------------------------------------------------------------------
 
 Engineering Manager										Feb. 2009 –Dec 2010
 Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)       					 
@@ -115,6 +135,8 @@ Achievements:
 ·	Improved weld fixture accuracy and inspection procedures though enhanced use of FARO technology.
 ·	Cut weld fixture production cost by reducing assembly time though innovative design.
 ·	Successfully designed, built fixtures for and launched new deck railing system for recreational vehicles.
+
+------------------------------------------------------------------------------------------------------
 
 Automotive Engineering Internship (Paid)							Dec. 2006 – July 2008	               
 Summit Polymers (Portage, MI)                          	
