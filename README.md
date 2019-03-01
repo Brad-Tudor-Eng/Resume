@@ -1,64 +1,66 @@
 Bradley L. Tudor
 640 W4th Street Unit: 111, Long Beach CA, 90802    -    Phone: 574-220-7629    -    Email: B6tudor@gmail.com
+------------------------------------------------------------------------------------------------------
 
-
-QUALIFICATIONS SUMMARY:
-      Full-Stack Developer: Result-driven Fullstack Web Developer with experience in MERN stack.  Completed 427 hours of coursework.  
+*QUALIFICATIONS SUMMARY:
+      **Full-Stack Developer**: Result-driven Fullstack Web Developer with experience in MERN stack.  
+      Completed 427 hours of coursework.  
  
-      Mechanical Engineer: 10 years of industry experience successfully leading projects.  Specifically in cradle to grave new product development, continuous product improvement, process automation, manufacturing \ support and warranty analysis.  Experienced in new employee training \ mentorship.  Also extremely proficient in 3d mod-eling, with good knowledge of FEA, CFD simulation and computer programming.
+      **Mechanical Engineer**: 10 years of industry experience successfully leading projects.  
+      Specifically in cradle to grave new product development, continuous product improvement, 
+      process automation, manufacturing \ support and warranty analysis.  Experienced in new employee 
+      training \ mentorship.  Also extremely proficient in 3d mod-eling, with good knowledge of FEA, 
+      CFD simulation and computer programming.
 
-     SOFTWARE DEVELOPMENT
-
-HIGHLIGHTED SKILLS
+------------------------------------------------------------------------------------------------------
+*SOFTWARE DEVELOPMENT
+------------------------------------------------------------------------------------------------------
+**HIGHLIGHTED SKILLS
 Node	Express		React		Redux		Apollo		GraphQL	    HTML	                       
 CSS		SCSS		MongoDB	    RabbitMQ	Regex		REST API	AWS S3
 Jest	Enzyme		JWT		    PostMan
 
 
-EXPERIENCE
+**EXPERIENCE
 
 Full-Stack Developer									                June. 2017 – Present
 Self-Employed (Torrence, CA)		        					 
 
 Completed Projects:
 •	Title: GrowCtrl										  
-    -	Description: IOT Automated Greenhouse control and data logger.
-    -	Involvement: 100% of code base and physical device. 
-    -	Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB
-    -	Url: http://growctrl.herokuapp.com/
-    -	Git: https://github.com/Brad-Tudor-Eng/GrowControl
-    -	Demo Credentials: Available on request
-•	Title: Blogster										  	
-    -	Description: Simple Blogging app with caching and integration testing
-    -	Involvement: 100% of testing, caching, and S3 Storage. 
-    -	Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3
-    -	Url: http://growctrl.herokuapp.com/
-    -	Git: https://github.com/Brad-Tudor-Eng/GrowControl
+-	Description: IOT Automated Greenhouse control and data logger.
+-	Involvement: 100% of code base and physical device. 
+-	Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB
+-	Url: http://growctrl.herokuapp.com/
+-	Git: https://github.com/Brad-Tudor-Eng/GrowControl
+-	Demo Credentials: Available on request
+
 •	Title: ReSplash								      	               	
-    -	Description: UnSplash Clone. Image search with mason style grid layout.
-    -	Involvement: 100% of code base. 
-    -	Tech Stack: React, SCSS
-    -	Url: https://resplash-bt.herokuapp.com/
-    -	Git: https://github.com/Brad-Tudor-Eng/ReSplash.git
+-	Description: UnSplash Clone. Image search with mason style grid layout.
+-	Involvement: 100% of code base. 
+-	Tech Stack: React, SCSS
+-	Url: https://resplash.bradtudor.com/
+-	Git: https://github.com/Brad-Tudor-Eng/ReSplash.git
+
 •	Title: Gnar Guides									  
-    -	Description: Sample page layout
-    -	Involvement: 100% of code base and physical device. 
-    -	Tech Stack: HTML, SCSS
-    -	Url: https://gnar-guides.herokuapp.com/
-    -	Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
+-	Description: Sample page layout
+-	Involvement: 100% of code base and physical device. 
+-	Tech Stack: HTML, SCSS
+-	Url: https://gnar-guides.bradtudor.com/
+-	Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
  
 
 
------------------------
-MECHANICAL ENGINEERING
--------------------
-HIGHLIGHTED SKILLS
+------------------------------------------------------------------------------------------------------
+*MECHANICAL ENGINEERING
+------------------------------------------------------------------------------------------------------
+**HIGHLIGHTED SKILLS
 Project management	New product development	    Process Improvement	    Training and Leadership
 Solidworks			VBA Programming	 	        Rapid Prototyping	    Plastics Design and Processing
 FEA Analysis		Metrology			        CFD Simulation		    ASME Y14.5-2009 GD&T
 
 
-EXPERIENCE
+**EXPERIENCE
 
 Mechanical Engineer									                May. 2017 – Present
 Stewart Filmscreen (Torrence, CA)		        					 
@@ -125,9 +127,9 @@ Achievements:
 ·	Successfully met tight prototype delivery deadlines by training and managing teams of up to 8 people.
 ·	Cut production cost though implementation of new corporate design standards.
 
+------------------------------------------------------------------------------------------------------
 
-
-EDUCATION
+*EDUCATION
 Bachelors of Science in Engineering, December, 2008     	                                          
 Western Michigan University, Kalamazoo, MI 	                               			                                
 
@@ -150,8 +152,9 @@ NAUI Dive Master Certification
 
 USPA IAD Instructor Certification										
 
+------------------------------------------------------------------------------------------------------
 
-PERSONAL REFERENCES
+*PERSONAL REFERENCES
 
 Managers
 
