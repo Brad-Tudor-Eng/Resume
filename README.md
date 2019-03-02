@@ -1,90 +1,94 @@
 <h1>Bradley L. Tudor</h1>
-<p>640 W4th Street Unit: 111,</p>
-<p>Long Beach CA, 90802</p>
+<p>640 W4th Street Unit: 111, Long Beach CA, 90802</p>
 
-Phone: 574-220-7629
-Email: B6tudor@gmail.com
+<p>Phone: 574-220-7629</p>
+<p>Email: B6tudor@gmail.com</p>
 
-------------------------------------------------------------------------------------------------------
+<hr/>
 
-QUALIFICATIONS SUMMARY:
+<h2>QUALIFICATIONS SUMMARY:</h2>
 
-      **Full-Stack Developer**: Result-driven Fullstack Web Developer with experience in MERN stack.  
-      Completed 427 hours of coursework.  
- 
-      **Mechanical Engineer**: 10 years of industry experience successfully leading projects.  
-      Specifically in cradle to grave new product development, continuous product improvement, 
-      process automation, manufacturing \ support and warranty analysis.  Experienced in new employee 
-      training \ mentorship.  Also extremely proficient in 3d mod-eling, with good knowledge of FEA, 
-      CFD simulation and computer programming.
+<h3>Full-Stack Developer:</h3>
+<p>
+Result-driven Fullstack Web Developer with experience in MERN stack.  
+Completed 427 hours of coursework.
+</p>  
 
-------------------------------------------------------------------------------------------------------
+<h3>Mechanical Engineer:</h3>
+<p>
+10 years of industry experience successfully leading projects.  
+Specifically in cradle to grave new product development, continuous product improvement, 
+process automation, manufacturing \ support and warranty analysis.  Experienced in new employee 
+training \ mentorship.  Also extremely proficient in 3d mod-eling, with good knowledge of FEA, 
+CFD simulation and computer programming.
+</p>
 
-SOFTWARE DEVELOPMENT
+<hr/>
+<h2>SOFTWARE DEVELOPMENT</h2>
+<hr/>
 
-------------------------------------------------------------------------------------------------------
-HIGHLIGHTED SKILLS
+<h2>HIGHLIGHTED SKILLS</h2>
 Node  Express     React       Redux       Apollo      GraphQL     HTML	                       
 CSS	SCSS		MongoDB	RabbitMQ	Regex		REST API	AWS S3
 Jest	Enzyme	JWT		PostMan
 
-EXPERIENCE
+<hr/>
+<h2>EXPERIENCE</h2>
+<hr/>
 
-Full-Stack Developer									                June. 2017 – Present
+<h3>Full-Stack Developer</h3>									                
+June. 2017 – Present
 Self-Employed (Torrence, CA)		        					 
 
 Completed Projects:
 
-	Title: GrowCtrl										  
-	Description: IOT Automated Greenhouse control and data logger.
-	Involvement: 100% of code base and physical device. 
-	Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB
-	Url: http://growctrl.herokuapp.com/
-	Git: https://github.com/Brad-Tudor-Eng/GrowControl
-	Demo Credentials: Available on request
+<h4>Title: GrowCtrl</h4>										  
+Description: IOT Automated Greenhouse control and data logger.
+Involvement: 100% of code base and physical device. 
+Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB
+Url: http://growctrl.herokuapp.com/
+Git: https://github.com/Brad-Tudor-Eng/GrowControl
+Demo Credentials: Available on request
 
-	Title: Blogster										  	
-	Description: Simple Blogging app with caching and integration testing
-	Involvement: 100% of testing, caching, and S3 Storage. 
-	Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3
-	Url: http://blogster.bradtudor.com/
-	Git: https://github.com/Brad-Tudor-Eng/Blogster
+<h4>Title: Blogster</h4>										  	
+Description: Simple Blogging app with caching and integration testing
+Involvement: 100% of testing, caching, and S3 Storage. 
+Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3
+Url: http://blogster.bradtudor.com/
+Git: https://github.com/Brad-Tudor-Eng/Blogster
 
 
-	Title: ReSplash								      	               	
-	Description: UnSplash Clone. Image search with mason style grid layout.
-	Involvement: 100% of code base. 
-	Tech Stack: React, SCSS
-	Url: https://resplash.bradtudor.com/
-	Git: https://github.com/Brad-Tudor-Eng/ReSplash.git
+<h4>Title: ReSplash</h4>								      	               	
+Description: UnSplash Clone. Image search with mason style grid layout.
+Involvement: 100% of code base. 
+Tech Stack: React, SCSS
+Url: https://resplash.bradtudor.com/
+Git: https://github.com/Brad-Tudor-Eng/ReSplash.git
 
-	Title: Gnar Guides									  
-	Description: Sample page layout
-	Involvement: 100% of code base and physical device. 
-	Tech Stack: HTML, SCSS
-	Url: https://gnar-guides.bradtudor.com/
-	Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
+<h4>Title: Gnar Guides									  
+Description: Sample page layout</h4>
+Involvement: 100% of code base and physical device. 
+Tech Stack: HTML, SCSS
+Url: https://gnar-guides.bradtudor.com/
+Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
  
 
 
-------------------------------------------------------------------------------------------------------
+<hr/>
+<h2>MECHANICAL ENGINEERING</h2>
+<hr/>
 
-MECHANICAL ENGINEERING
-
-------------------------------------------------------------------------------------------------------
-
-**HIGHLIGHTED SKILLS
+<h2>HIGHLIGHTED SKILLS</h2>
 Project management	New product development	    Process Improvement	    Training and Leadership
 Solidworks			VBA Programming	 	        Rapid Prototyping	    Plastics Design and Processing
 FEA Analysis		Metrology			        CFD Simulation		    ASME Y14.5-2009 GD&T
 
-------------------------------------------------------------------------------------------------------
+<hr/>
+<h2>EXPERIENCE</h2>
+<hr/>
 
-EXPERIENCE
-
-------------------------------------------------------------------------------------------------------
-
-Mechanical Engineer									                May. 2017 – Present
+<h3>Mechanical Engineer</h3>									                
+May. 2017 – Present
 Stewart Filmscreen (Torrence, CA)		        					 
 
 Responsibilities:  
@@ -102,9 +106,10 @@ Achievements:
 ·	Spear headed cross functional initiative to get quick-ship program back on track
 ·	Reduced inventory and condensed product line by developing one product to replace 5. 
 
-------------------------------------------------------------------------------------------------------
 
-Product Development Engineer									Sept 2012 – Apr 2017
+
+<h3>Product Development Engineer</h3>									
+Sept 2012 – Apr 2017
 PAI Industries (Atlanta, GA)	
 		        				              
 Responsibilities:
@@ -125,9 +130,9 @@ Achievements:
 ·	Cut production cost of HP Pins by 50% though purchase of new equipment with 4 month ROI.
 ·	Created a new system to organize the engineering data, reducing redundant work, lost / duplicate files, and confusion.
 
-------------------------------------------------------------------------------------------------------
 
-S-Body/Product Engineer									Dec. 2010 – Sept 2012
+
+<h3>S-Body/Product Engineer</h3>									Dec. 2010 – Sept 2012
 Supreme Corporation (Goshen, IN)		        					 
 
 Responsibilities: 
@@ -144,9 +149,9 @@ Achievements:
 ·	Boosted sales thought technical support and production of custom designed units on a tight schedule.
 ·	Increased engineering output and corporate profits through training and supervision of new employees.
  
-------------------------------------------------------------------------------------------------------
 
-Engineering Manager										Feb. 2009 –Dec 2010
+
+<h3>Engineering Manager</h3>										Feb. 2009 –Dec 2010
 Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)       					 
 
 Responsibilities:  Supported manufacturing thought the design, sourcing, assembly and inspection of welding fixtures.  
@@ -158,9 +163,9 @@ Achievements:
 ·	Cut weld fixture production cost by reducing assembly time though innovative design.
 ·	Successfully designed, built fixtures for and launched new deck railing system for recreational vehicles.
 
-------------------------------------------------------------------------------------------------------
 
-Automotive Engineering Internship (Paid)							Dec. 2006 – July 2008	               
+
+<h3>Automotive Engineering Internship (Paid)</h3>							Dec. 2006 – July 2008	               
 Summit Polymers (Portage, MI)                          	
 
 Responsibilities:  
@@ -173,9 +178,9 @@ Achievements:
 ·	Successfully met tight prototype delivery deadlines by training and managing teams of up to 8 people.
 ·	Cut production cost though implementation of new corporate design standards.
 
-------------------------------------------------------------------------------------------------------
+<hr/>
 
-EDUCATION
+<h2>EDUCATION</h2>
 Bachelors of Science in Engineering, December, 2008     	                                          
 Western Michigan University, Kalamazoo, MI 	                               			                                
 
@@ -189,20 +194,18 @@ Geomagic Design X Professional Training
 Faro Edge Cam 10 Measure 2 Professional Training
 
 
-PERSONAL ACHIEVEMENTS
-Graduated from Western Michigan University with honors and highest GPA in major.
+<h2>PERSONAL ACHIEVEMENTS</h2>
+<ul>
+      <li>Graduated from Western Michigan University with honors and highest GPA in major.</li>
+      <li>Certified Solidworks Professional</li>
+      <li>NAUI Dive Master Certification</li>
+      <li>USPA IAD Instructor Certification</li>										
+</ul>
+<hr/>
 
-Certified Solidworks Professional
+<h2>PERSONAL REFERENCES</h2>
 
-NAUI Dive Master Certification
-
-USPA IAD Instructor Certification										
-
-------------------------------------------------------------------------------------------------------
-
-PERSONAL REFERENCES
-
-Managers
+<h3>Managers</h3>
 
 Dean Weldy 
 Supreme Corporation 
@@ -210,7 +213,7 @@ Director of engineering- National Fleets
 Cell Phone: 574-202-1695 
 Emails: Weldydean@gmail.com
 
-Co-Workers
+<h3>Co-Workers</h3>
 
 Kevin Mcglynn
 Mechanical Engineer at Stewart Filmscreen
