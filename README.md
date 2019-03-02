@@ -1,22 +1,21 @@
 <h1>Bradley L. Tudor</h1>
 <p>640 W4th Street Unit: 111, Long Beach CA, 90802</p>
 
+<div>Website: <a href="https://bradtudor.com"></a></div>
 <div>Phone: 574-220-7629</div>
 <div>Email: B6tudor@gmail.com</div>
-
-
 
 <h2>QUALIFICATIONS SUMMARY:</h2>
 
 <h3>Full-Stack Developer:</h3>
 <p>
-Result-driven Fullstack Web Developer with experience in MERN stack.  
+Result-driven Fullstack Developer with experience in MERN stack.  
 Completed 427 hours of coursework.
 </p>  
 
 <h3>Mechanical Engineer:</h3>
 <p>
-10 years of industry experience successfully leading projects.  
+     10 years of industry experience successfully leading projects.  
 Specifically in cradle to grave new product development, continuous product improvement, 
 process automation, manufacturing \ support and warranty analysis.  Experienced in new employee 
 training \ mentorship.  Also extremely proficient in 3d mod-eling, with good knowledge of FEA, 
@@ -95,7 +94,7 @@ CFD simulation and computer programming.
 
 <h3>Mechanical Engineer</h3>									                
 <div>May. 2017 – Present</div>
-<div>Stewart Filmscreen (Torrence, CA)</div>		        					 
+<p>Stewart Filmscreen (Torrence, CA)</p>		        					 
 
 <div><b>Responsibilities:</b></div>
 <p>
@@ -116,7 +115,7 @@ Advise senior management on corporate im-provement projects.
 
 <h3>Product Development Engineer</h3>									
 <div>Sept 2012 – Apr 2017</div>
-<div>PAI Industries (Atlanta, GA)</div>	
+<p>PAI Industries (Atlanta, GA)</p>	
 		        				              
 <div><b>Responsibilities:</b></div>
 <p>
@@ -141,7 +140,7 @@ Engineering presentations for improving customer relations.  Training and mentor
 
 <h3>S-Body/Product Engineer</h3>									
 <div>Dec. 2010 – Sept 2012</div>
-<div>Supreme Corporation (Goshen, IN)</div>		        					 
+<p>Supreme Corporation (Goshen, IN)</p>		        					 
 
 <div><b>Responsibilities:</b></div>
 <p>
@@ -161,7 +160,7 @@ Provided technical support for sales and manufacturing at 5 locations nationwide
 
 <h3>Engineering Manager</h3>										
 <div>Feb. 2009 –Dec 2010</div>
-<div>Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)</div>       					 
+<p>Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)</p>       					 
 
 <div><b>Responsibilities:</b></div> 
 <div> 
@@ -179,7 +178,7 @@ Used 3d CAD to develop engineering documentation. Trained and managed 1 employee
 
 <h3>Automotive Engineering Internship (Paid)</h3>							
 <div>Dec. 2006 – July 2008</div>	               
-<div>Summit Polymers (Portage, MI)</div>                          	
+<p>Summit Polymers (Portage, MI)</p>                          	
 
 <div><b>Responsibilities:</b></div>
 <p>
