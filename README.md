@@ -51,15 +51,6 @@ CFD simulation and computer programming.
 <li>Demo Credentials: Available on request</li>
 </ul>
 
-<h4>Title: Blogster</h4>
-<ul>										  	
-<li>Description: Simple Blogging app with caching and integration testing</li>
-<li>Involvement: 100% of testing, caching, and S3 Storage.</li> 
-<li>Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3</li>
-<li>Url: http://blogster.bradtudor.com/</li>
-<li>Git: https://github.com/Brad-Tudor-Eng/Blogster</li>
-</ul>
-
 <h4>Title: ReSplash</h4>
 <ul>								      	               	
 <li>Description: UnSplash Clone. Image search with mason style grid layout.</li>
