@@ -1,14 +1,13 @@
-Bradley L. Tudor
-
-640 W4th Street Unit: 111, 
-Long Beach CA, 90802
+<h1>Bradley L. Tudor</h1>
+<p>640 W4th Street Unit: 111,</p>
+<p>Long Beach CA, 90802</p>
 
 Phone: 574-220-7629
 Email: B6tudor@gmail.com
 
 ------------------------------------------------------------------------------------------------------
 
-*QUALIFICATIONS SUMMARY:
+QUALIFICATIONS SUMMARY:
 
       **Full-Stack Developer**: Result-driven Fullstack Web Developer with experience in MERN stack.  
       Completed 427 hours of coursework.  
@@ -21,49 +20,56 @@ Email: B6tudor@gmail.com
 
 ------------------------------------------------------------------------------------------------------
 
-*SOFTWARE DEVELOPMENT
+SOFTWARE DEVELOPMENT
 
 ------------------------------------------------------------------------------------------------------
-**HIGHLIGHTED SKILLS
-Node	Express		React		Redux		Apollo		GraphQL	    HTML	                       
-CSS		SCSS		MongoDB	    RabbitMQ	Regex		REST API	AWS S3
-Jest	Enzyme		JWT		    PostMan
+HIGHLIGHTED SKILLS
+Node  Express     React       Redux       Apollo      GraphQL     HTML	                       
+CSS	SCSS		MongoDB	RabbitMQ	Regex		REST API	AWS S3
+Jest	Enzyme	JWT		PostMan
 
-
-**EXPERIENCE
+EXPERIENCE
 
 Full-Stack Developer									                June. 2017 – Present
 Self-Employed (Torrence, CA)		        					 
 
 Completed Projects:
 
-•	Title: GrowCtrl										  
--	Description: IOT Automated Greenhouse control and data logger.
--	Involvement: 100% of code base and physical device. 
--	Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB
--	Url: http://growctrl.herokuapp.com/
--	Git: https://github.com/Brad-Tudor-Eng/GrowControl
--	Demo Credentials: Available on request
+	Title: GrowCtrl										  
+	Description: IOT Automated Greenhouse control and data logger.
+	Involvement: 100% of code base and physical device. 
+	Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB
+	Url: http://growctrl.herokuapp.com/
+	Git: https://github.com/Brad-Tudor-Eng/GrowControl
+	Demo Credentials: Available on request
 
-•	Title: ReSplash								      	               	
--	Description: UnSplash Clone. Image search with mason style grid layout.
--	Involvement: 100% of code base. 
--	Tech Stack: React, SCSS
--	Url: https://resplash.bradtudor.com/
--	Git: https://github.com/Brad-Tudor-Eng/ReSplash.git
+	Title: Blogster										  	
+	Description: Simple Blogging app with caching and integration testing
+	Involvement: 100% of testing, caching, and S3 Storage. 
+	Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3
+	Url: http://blogster.bradtudor.com/
+	Git: https://github.com/Brad-Tudor-Eng/Blogster
 
-•	Title: Gnar Guides									  
--	Description: Sample page layout
--	Involvement: 100% of code base and physical device. 
--	Tech Stack: HTML, SCSS
--	Url: https://gnar-guides.bradtudor.com/
--	Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
+
+	Title: ReSplash								      	               	
+	Description: UnSplash Clone. Image search with mason style grid layout.
+	Involvement: 100% of code base. 
+	Tech Stack: React, SCSS
+	Url: https://resplash.bradtudor.com/
+	Git: https://github.com/Brad-Tudor-Eng/ReSplash.git
+
+	Title: Gnar Guides									  
+	Description: Sample page layout
+	Involvement: 100% of code base and physical device. 
+	Tech Stack: HTML, SCSS
+	Url: https://gnar-guides.bradtudor.com/
+	Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
  
 
 
 ------------------------------------------------------------------------------------------------------
 
-*MECHANICAL ENGINEERING
+MECHANICAL ENGINEERING
 
 ------------------------------------------------------------------------------------------------------
 
@@ -74,7 +80,7 @@ FEA Analysis		Metrology			        CFD Simulation		    ASME Y14.5-2009 GD&T
 
 ------------------------------------------------------------------------------------------------------
 
-**EXPERIENCE
+EXPERIENCE
 
 ------------------------------------------------------------------------------------------------------
 
@@ -169,7 +175,7 @@ Achievements:
 
 ------------------------------------------------------------------------------------------------------
 
-*EDUCATION
+EDUCATION
 Bachelors of Science in Engineering, December, 2008     	                                          
 Western Michigan University, Kalamazoo, MI 	                               			                                
 
@@ -194,7 +200,7 @@ USPA IAD Instructor Certification
 
 ------------------------------------------------------------------------------------------------------
 
-*PERSONAL REFERENCES
+PERSONAL REFERENCES
 
 Managers
 
