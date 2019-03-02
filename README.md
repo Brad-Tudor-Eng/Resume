@@ -4,7 +4,7 @@
 <p>Phone: 574-220-7629</p>
 <p>Email: B6tudor@gmail.com</p>
 
-<hr/>
+
 
 <h2>QUALIFICATIONS SUMMARY:</h2>
 
@@ -23,18 +23,18 @@ training \ mentorship.  Also extremely proficient in 3d mod-eling, with good kno
 CFD simulation and computer programming.
 </p>
 
-<hr/>
+
 <h2>SOFTWARE DEVELOPMENT</h2>
-<hr/>
+
 
 <h2>HIGHLIGHTED SKILLS</h2>
 <div>Node  -  Express  -  React  -  Redux  -  Apollo  -  GraphQL  -  HTML</div>	                       
 <div>CSS  -  SCSS  -  MongoDB  -  RabbitMQ  -  Regex  -  REST API  -  AWS S3</div>
 <div>Jest  -  Enzyme  -  JWT  -  PostMan</div>
 
-<hr/>
+
 <h2>EXPERIENCE</h2>
-<hr/>
+
 
 <h3>Full-Stack Developer</h3>									                
 <div>June. 2017 – Present</div>
@@ -74,18 +74,18 @@ CFD simulation and computer programming.
  
 
 
-<hr/>
+
 <h2>MECHANICAL ENGINEERING</h2>
-<hr/>
+
 
 <h2>HIGHLIGHTED SKILLS</h2>
 <div>Project management  -  New product development  -  Process Improvement  -  Training and Leadership</div>
 <div>Solidworks  -  VBA Programming  -  Rapid Prototyping  -  Plastics Design and Processing</div>
 <div>FEA Analysis  -  Metrology  -  CFD Simulation  -  ASME Y14.5-2009 GD&T</div>
 
-<hr/>
+
 <h2>EXPERIENCE</h2>
-<hr/>
+
 
 <h3>Mechanical Engineer</h3>									                
 <div>May. 2017 – Present</div>
@@ -186,7 +186,7 @@ Worked with project engineers to ensure successful on time development of plasti
       <li>Successfully met tight prototype delivery deadlines by training and managing teams of up to 8 people.</li>
       <li>Cut production cost though implementation of new corporate design standards.</li>
 </ul>
-<hr/>
+
 
 <h2>EDUCATION</h2>
 <p>
@@ -214,7 +214,7 @@ Worked with project engineers to ensure successful on time development of plasti
       <li>NAUI Dive Master Certification</li>
       <li>USPA IAD Instructor Certification</li>										
 </ul>
-<hr/>
+
 
 <h2>PERSONAL REFERENCES</h2>
 
