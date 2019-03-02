@@ -1,7 +1,7 @@
 <h1>Bradley L. Tudor</h1>
 <p>640 W4th Street Unit: 111, Long Beach CA, 90802</p>
 
-<div>Website: <a href="https://bradtudor.com"></a></div>
+<div>Website: <a href="https://bradtudor.com">https://bradtudor.com</a></div>
 <div>Phone: 574-220-7629</div>
 <div>Email: B6tudor@gmail.com</div>
 
