@@ -37,8 +37,8 @@ Jest	Enzyme	JWT		PostMan
 <hr/>
 
 <h3>Full-Stack Developer</h3>									                
-June. 2017 – Present
-Self-Employed (Torrence, CA)		        					 
+<div>June. 2017 – Present</div>
+<div>Self-Employed (Torrence, CA)</div>		        					 
 
 Completed Projects:
 
