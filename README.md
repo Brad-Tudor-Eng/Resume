@@ -42,36 +42,42 @@ CFD simulation and computer programming.
 
 <div><b>Completed Projects:</b></div>
 
-<h4>Title: GrowCtrl</h4>										  
-<div>Description: IOT Automated Greenhouse control and data logger.</div>
-<div>Involvement: 100% of code base and physical device.</div> 
-<div>Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB</div>
-<div>Url: http://growctrl.herokuapp.com/</div>
-<div>Git: https://github.com/Brad-Tudor-Eng/GrowControl</div>
-<div>Demo Credentials: Available on request</div>
+<h4>Title: GrowCtrl</h4>
+<ul>										  
+<li>Description: IOT Automated Greenhouse control and data logger.</li>
+<li>Involvement: 100% of code base and physical device.</li> 
+<li>Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB</li>
+<li>Url: http://growctrl.herokuapp.com/</li>
+<li>Git: https://github.com/Brad-Tudor-Eng/GrowControl</li>
+<li>Demo Credentials: Available on request</li>
+</ul>
 
-<h4>Title: Blogster</h4>										  	
-<div>Description: Simple Blogging app with caching and integration testing</div>
-<div>Involvement: 100% of testing, caching, and S3 Storage.</div> 
-<div>Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3</div>
-<div>Url: http://blogster.bradtudor.com/</div>
-<div>Git: https://github.com/Brad-Tudor-Eng/Blogster</div>
+<h4>Title: Blogster</h4>
+<ul>										  	
+<li>Description: Simple Blogging app with caching and integration testing</li>
+<li>Involvement: 100% of testing, caching, and S3 Storage.</li> 
+<li>Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3</li>
+li<div>Url: http://blogster.bradtudor.com/</li>
+<li>Git: https://github.com/Brad-Tudor-Eng/Blogster</li>
+</ul>
 
+<h4>Title: ReSplash</h4>
+<ul>								      	               	
+<li>Description: UnSplash Clone. Image search with mason style grid layout.</li>
+<li>Involvement: 100% of code base. 
+<li>Tech Stack: React, SCSS</li>
+<li>Url: https://resplash.bradtudor.com/</li>
+<li>Git: https://github.com/Brad-Tudor-Eng/ReSplash.git</li>
+</ul>
 
-<h4>Title: ReSplash</h4>								      	               	
-<div>Description: UnSplash Clone. Image search with mason style grid layout.</div>
-<div>Involvement: 100% of code base. 
-<div>Tech Stack: React, SCSS</div>
-<div>Url: https://resplash.bradtudor.com/</div>
-<div>Git: https://github.com/Brad-Tudor-Eng/ReSplash.git</div>
-
-<h4>Title: Gnar Guides</h4>									  
-<div>Description: Sample page layout</div>
-<div>Involvement: 100% of code base and physical device.</div> 
-<div>Tech Stack: HTML, SCSS</div>
-<div>Url: https://gnar-guides.bradtudor.com/</div>
-<div>Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git</div>
- 
+<h4>Title: Gnar Guides</h4>
+<ul>									  
+<li>Description: Sample page layout</li>
+<li>Involvement: 100% of code base and physical device.</li> 
+<li>Tech Stack: HTML, SCSS</li>
+<li>Url: https://gnar-guides.bradtudor.com/</li>
+<li>Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git</li>
+ </ul>
 
 
 
