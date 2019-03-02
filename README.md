@@ -1,8 +1,8 @@
 <h1>Bradley L. Tudor</h1>
 <p>640 W4th Street Unit: 111, Long Beach CA, 90802</p>
 
-<p>Phone: 574-220-7629</p>
-<p>Email: B6tudor@gmail.com</p>
+<div>Phone: 574-220-7629</div>
+<div>Email: B6tudor@gmail.com</div>
 
 
 
@@ -57,7 +57,7 @@ CFD simulation and computer programming.
 <li>Description: Simple Blogging app with caching and integration testing</li>
 <li>Involvement: 100% of testing, caching, and S3 Storage.</li> 
 <li>Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3</li>
-li<div>Url: http://blogster.bradtudor.com/</li>
+<li>Url: http://blogster.bradtudor.com/</li>
 <li>Git: https://github.com/Brad-Tudor-Eng/Blogster</li>
 </ul>
 
@@ -98,12 +98,12 @@ li<div>Url: http://blogster.bradtudor.com/</li>
 <div>Stewart Filmscreen (Torrence, CA)</div>		        					 
 
 <div><b>Responsibilities:</b></div>
-<div>
+<p>
 Set Engineering department standards.  New Product Development (Consumer Goods).  
 Redesign existing products reducing manufacturing time and cost.  Automate Engineering drawing process.  
 Develop costing for all products.  Improve manufacturing process efficiency.  
 Advise senior management on corporate im-provement projects.
-</div>
+</p>
 <div><b>Achievements:</b></div>
 <li>Designed and developed award winning product in less than 3 months.</li>
 <li>Automated process to convert over 5000 CAD files from Inventor 2013 to Solidworks 2017 in less than 2 weeks.</li>
@@ -119,7 +119,7 @@ Advise senior management on corporate im-provement projects.
 <div>PAI Industries (Atlanta, GA)</div>	
 		        				              
 <div><b>Responsibilities:</b></div>
-<div>
+<p>
 New product design and development (Cast metal, machined, plastic injection molded and composite parts).  
 Foreign and domestic supplier acquisition, and management.  Design of new equipment and testing procedures to reduce 
 warranty cost by ensuring product compliance.  Research and acquire new capital resources to expand manufacturing capabilities 
@@ -128,7 +128,7 @@ Engineering data management.  Physical product testing.  PPAP / FEMA documentati
 Developed creative solutions for allowing sales staff to convey technical information simply and cost effectively. 
 Advise senior manage-ment on nonconforming products.  Audit internal ISO processes. 
 Engineering presentations for improving customer relations.  Training and mentorship of engineering staff.
-</div>
+</p>
 
 <div><b>Achievements:</b></div>
 <li>Decreased engineering development time up to 75% though implementation of 3d Laser scanning / employee training.</li>
@@ -144,11 +144,11 @@ Engineering presentations for improving customer relations.  Training and mentor
 <div>Supreme Corporation (Goshen, IN)</div>		        					 
 
 <div><b>Responsibilities:</b></div>
-<div>
+<p>
 Set base standards for 70% of the Supreme Corporations’ truck divisions’ product line.  
 Designed and implemented improvements for cost reduction, ease of manufacturing and structural integrity.  
 Provided technical support for sales and manufacturing at 5 locations nationwide. 
-</div>
+</p>
 <div><b>Achievements:</b></div>
 <li>Strengthened key support structure by 85% while using 35% less part.</li>
 <li>Diminished total inventory by 45% through development of common parts across product lines.</li>
@@ -168,7 +168,7 @@ Provided technical support for sales and manufacturing at 5 locations nationwide
 Supported manufacturing thought the design, sourcing, assembly and inspection of welding fixtures.  
 Developed coordinates for CNC tubing process.  Worked with Senior Management to develop new products (Automotive and Consumer Goods).  
 Used 3d CAD to develop engineering documentation. Trained and managed 1 employee.
-</div>
+</p>
 <div><b>Achievements:</b></div>
 <ul>
       <li>Improved weld fixture accuracy and inspection procedures though enhanced use of FARO technology.</li>
@@ -182,9 +182,9 @@ Used 3d CAD to develop engineering documentation. Trained and managed 1 employee
 <div>Summit Polymers (Portage, MI)</div>                          	
 
 <div><b>Responsibilities:</b></div>
-<div>
+<p>
 Worked with project engineers to ensure successful on time development of plastic injection molded and composite products.
-</div>
+</p>
 <div><b>Achievements:</b></div>
 <ul>
       <li>Used root cause analysis to effectively solve warranty issues for major automotive companies.</li>
