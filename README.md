@@ -91,7 +91,7 @@ CFD simulation and computer programming.
 <h2>EXPERIENCE</h2>
 
 
-<h3>Mechanical Engineer</h3>									                
+<div><h3>Mechanical Engineer</h3></div>									                
 <div>May. 2017 – Present</div>
 <p>Stewart Filmscreen (Torrence, CA)</p>		        					 
 
@@ -112,7 +112,7 @@ Advise senior management on corporate im-provement projects.
 
 
 
-<h3>Product Development Engineer</h3>									
+<div><h3>Product Development Engineer</h3></div>									
 <div>Sept 2012 – Apr 2017</div>
 <p>PAI Industries (Atlanta, GA)</p>	
 		        				              
@@ -137,7 +137,7 @@ Engineering presentations for improving customer relations.  Training and mentor
 
 
 
-<h3>S-Body/Product Engineer</h3>									
+<div><h3>S-Body/Product Engineer</h3></div>									
 <div>Dec. 2010 – Sept 2012</div>
 <p>Supreme Corporation (Goshen, IN)</p>		        					 
 
@@ -157,7 +157,7 @@ Provided technical support for sales and manufacturing at 5 locations nationwide
  
 
 
-<h3>Engineering Manager</h3>										
+<div><h3>Engineering Manager</h3></div>										
 <div>Feb. 2009 –Dec 2010</div>
 <p>Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)</p>       					 
 
@@ -175,7 +175,7 @@ Used 3d CAD to develop engineering documentation. Trained and managed 1 employee
 </ul>
 
 
-<h3>Automotive Engineering Internship (Paid)</h3>							
+<div><h3>Automotive Engineering Internship (Paid)</h3></div>							
 <div>Dec. 2006 – July 2008</div>	               
 <p>Summit Polymers (Portage, MI)</p>                          	
 
