@@ -43,34 +43,34 @@ Jest	Enzyme	JWT		PostMan
 Completed Projects:
 
 <h4>Title: GrowCtrl</h4>										  
-Description: IOT Automated Greenhouse control and data logger.
-Involvement: 100% of code base and physical device. 
-Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB
-Url: http://growctrl.herokuapp.com/
-Git: https://github.com/Brad-Tudor-Eng/GrowControl
-Demo Credentials: Available on request
+<div>Description: IOT Automated Greenhouse control and data logger.</div>
+<div>Involvement: 100% of code base and physical device.</div> 
+<div>Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB</div>
+<div>Url: http://growctrl.herokuapp.com/</div>
+<div>Git: https://github.com/Brad-Tudor-Eng/GrowControl</div>
+<div>Demo Credentials: Available on request</div>
 
 <h4>Title: Blogster</h4>										  	
-Description: Simple Blogging app with caching and integration testing
-Involvement: 100% of testing, caching, and S3 Storage. 
-Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3
-Url: http://blogster.bradtudor.com/
-Git: https://github.com/Brad-Tudor-Eng/Blogster
+<div>Description: Simple Blogging app with caching and integration testing</div>
+<div>Involvement: 100% of testing, caching, and S3 Storage.</div> 
+<div>Tech Stack: Node, Express, React, Redis, MongoDB, TravisCI, Jest, Enzyme, AWS S3</div>
+<div>Url: http://blogster.bradtudor.com/</div>
+<div>Git: https://github.com/Brad-Tudor-Eng/Blogster</div>
 
 
 <h4>Title: ReSplash</h4>								      	               	
-Description: UnSplash Clone. Image search with mason style grid layout.
-Involvement: 100% of code base. 
-Tech Stack: React, SCSS
-Url: https://resplash.bradtudor.com/
-Git: https://github.com/Brad-Tudor-Eng/ReSplash.git
+<div>Description: UnSplash Clone. Image search with mason style grid layout.</div>
+<div>Involvement: 100% of code base. 
+<div>Tech Stack: React, SCSS</div>
+<div>Url: https://resplash.bradtudor.com/</div>
+<div>Git: https://github.com/Brad-Tudor-Eng/ReSplash.git</div>
 
-<h4>Title: Gnar Guides									  
-Description: Sample page layout</h4>
-Involvement: 100% of code base and physical device. 
-Tech Stack: HTML, SCSS
-Url: https://gnar-guides.bradtudor.com/
-Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
+<h4>Title: Gnar Guides</h4>									  
+<div>Description: Sample page layout</div>
+<div>Involvement: 100% of code base and physical device.</div> 
+<div>Tech Stack: HTML, SCSS</div>
+<div>Url: https://gnar-guides.bradtudor.com/</div>
+<div>Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git</div>
  
 
 
@@ -79,9 +79,9 @@ Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git
 <hr/>
 
 <h2>HIGHLIGHTED SKILLS</h2>
-Project management	New product development	    Process Improvement	    Training and Leadership
-Solidworks			VBA Programming	 	        Rapid Prototyping	    Plastics Design and Processing
-FEA Analysis		Metrology			        CFD Simulation		    ASME Y14.5-2009 GD&T
+<div>Project management  -  New product development  -  Process Improvement  -  Training and Leadership</div>
+<div>Solidworks  -  VBA Programming  -  Rapid Prototyping  -  Plastics Design and Processing</div>
+<div>FEA Analysis  -  Metrology  -  CFD Simulation  -  ASME Y14.5-2009 GD&T</div>
 
 <hr/>
 <h2>EXPERIENCE</h2>
@@ -132,7 +132,8 @@ Achievements:
 
 
 
-<h3>S-Body/Product Engineer</h3>									Dec. 2010 – Sept 2012
+<h3>S-Body/Product Engineer</h3>									
+Dec. 2010 – Sept 2012
 Supreme Corporation (Goshen, IN)		        					 
 
 Responsibilities: 
@@ -151,7 +152,8 @@ Achievements:
  
 
 
-<h3>Engineering Manager</h3>										Feb. 2009 –Dec 2010
+<h3>Engineering Manager</h3>										
+Feb. 2009 –Dec 2010
 Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)       					 
 
 Responsibilities:  Supported manufacturing thought the design, sourcing, assembly and inspection of welding fixtures.  
@@ -165,7 +167,8 @@ Achievements:
 
 
 
-<h3>Automotive Engineering Internship (Paid)</h3>							Dec. 2006 – July 2008	               
+<h3>Automotive Engineering Internship (Paid)</h3>							
+Dec. 2006 – July 2008	               
 Summit Polymers (Portage, MI)                          	
 
 Responsibilities:  
@@ -181,18 +184,23 @@ Achievements:
 <hr/>
 
 <h2>EDUCATION</h2>
-Bachelors of Science in Engineering, December, 2008     	                                          
-Western Michigan University, Kalamazoo, MI 	                               			                                
-
-Associate of Applied Science, May 2006
-Southwestern Michigan College, Dowagiac, MI
-
-Solidworks Professional Training in CFD / FEA / Sheet Metal / Weldments
-
-Geomagic Design X Professional Training
-
-Faro Edge Cam 10 Measure 2 Professional Training
-
+<p>
+<div>Bachelors of Science in Engineering, December, 2008</div>     	                                          
+<div>Western Michigan University, Kalamazoo, MI</div> 	                               			                                
+</p>
+<p>
+<div>Associate of Applied Science, May 2006</div>
+<div>Southwestern Michigan College, Dowagiac, MI</div>
+</p>
+<p>
+<div>Solidworks Professional Training in CFD / FEA / Sheet Metal / Weldments</div>
+</p>
+<p>
+<div>Geomagic Design X Professional Training</div>
+</p>
+<p>
+<div>Faro Edge Cam 10 Measure 2 Professional Training</div>
+</p>
 
 <h2>PERSONAL ACHIEVEMENTS</h2>
 <ul>
@@ -207,27 +215,27 @@ Faro Edge Cam 10 Measure 2 Professional Training
 
 <h3>Managers</h3>
 
-Dean Weldy 
-Supreme Corporation 
-Director of engineering- National Fleets
-Cell Phone: 574-202-1695 
-Emails: Weldydean@gmail.com
+<h4>Dean Weldy</h4> 
+<div>Supreme Corporation</div> 
+<div>Director of engineering- National Fleets</div>
+<div>Cell Phone: 574-202-1695</div> 
+<div>Emails: Weldydean@gmail.com</div>
 
 <h3>Co-Workers</h3>
 
-Kevin Mcglynn
-Mechanical Engineer at Stewart Filmscreen
-Personal Phone: 310-462-5465
+<h4>Kevin Mcglynn</h4>
+<div>Mechanical Engineer at Stewart Filmscreen</div>
+<div>Personal Phone: 310-462-5465</div>
 
-John Harris
-Development Engineer at Yamaha Motor Corporation, USA
-Personal Phone: 404-579-2642
-E-mail: john.harris16@gmail.com
+<h4>John Harris</h4>
+<div>Development Engineer at Yamaha Motor Corporation, USA</div>
+<div>Personal Phone: 404-579-2642</div>
+<div>E-mail: john.harris16@gmail.com</div>
 
-Mike Franks
-Product Engineer at PAI Industries
-Personal Phone: 678 – 446 – 6306 
+<h4>Mike Franks</h4>
+<div>Product Engineer at PAI Industries</div>
+<div>Personal Phone: 678 – 446 – 6306</div> 
 
-Jim Thelen
-Assembly Manager at PAI Industries
-Personal Phone: 678-699-7012
+<h4>Jim Thelen</h4>
+<div>Assembly Manager at PAI Industries</div>
+<div>Personal Phone: 678-699-7012</div>
