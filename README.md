@@ -215,7 +215,7 @@ Achievements:
 
 <h3>Managers</h3>
 
-<h4>Dean Weldy</h4> 
+<div><b>Dean Weldy</b></div> 
 <div>Supreme Corporation</div> 
 <div>Director of engineering- National Fleets</div>
 <div>Cell Phone: 574-202-1695</div> 
@@ -223,19 +223,19 @@ Achievements:
 
 <h3>Co-Workers</h3>
 
-<h4>Kevin Mcglynn</h4>
+<div><b>Kevin Mcglynn</b></div>
 <div>Mechanical Engineer at Stewart Filmscreen</div>
 <div>Personal Phone: 310-462-5465</div>
 
-<h4>John Harris</h4>
+<div><b>John Harris</b></div>
 <div>Development Engineer at Yamaha Motor Corporation, USA</div>
 <div>Personal Phone: 404-579-2642</div>
 <div>E-mail: john.harris16@gmail.com</div>
 
-<h4>Mike Franks</h4>
+<div><b>Mike Franks</b></div>
 <div>Product Engineer at PAI Industries</div>
 <div>Personal Phone: 678 – 446 – 6306</div> 
 
-<h4>Jim Thelen</h4>
+<div><b>Jim Thelen</b></div>
 <div>Assembly Manager at PAI Industries</div>
 <div>Personal Phone: 678-699-7012</div>
