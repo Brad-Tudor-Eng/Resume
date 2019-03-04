@@ -15,10 +15,10 @@ Completed 427 hours of coursework.
 
 <h3>Mechanical Engineer:</h3>
 <p>
-     10 years of industry experience successfully leading projects.  
+10 years of industry experience successfully leading projects.  
 Specifically in cradle to grave new product development, continuous product improvement, 
 process automation, manufacturing \ support and warranty analysis.  Experienced in new employee 
-training \ mentorship.  Also extremely proficient in 3d mod-eling, with good knowledge of FEA, 
+training \ mentorship.  Also extremely proficient in 3d modeling, with good knowledge of FEA, 
 CFD simulation and computer programming.
 </p>
 
@@ -91,7 +91,7 @@ CFD simulation and computer programming.
 Set Engineering department standards.  New Product Development (Consumer Goods).  
 Redesign existing products reducing manufacturing time and cost.  Automate Engineering drawing process.  
 Develop costing for all products.  Improve manufacturing process efficiency.  
-Advise senior management on corporate im-provement projects.
+Advise senior management on corporate improvement projects.
 </p>
 <div><b>Achievements:</b></div>
 <li>Designed and developed award winning product in less than 3 months.</li>
@@ -115,7 +115,7 @@ warranty cost by ensuring product compliance.  Research and acquire new capital 
 and lower production cost.  Design validation through 3D modeling, FEA and CFD simulation.  Prototype construction and 3d printing.  
 Engineering data management.  Physical product testing.  PPAP / FEMA documentation and testing.  
 Developed creative solutions for allowing sales staff to convey technical information simply and cost effectively. 
-Advise senior manage-ment on nonconforming products.  Audit internal ISO processes. 
+Advise senior management on nonconforming products.  Audit internal ISO processes. 
 Engineering presentations for improving customer relations.  Training and mentorship of engineering staff.
 </p>
 
@@ -217,7 +217,7 @@ Worked with project engineers to ensure successful on time development of plasti
 
 <div><b>Dean Weldy</b></div> 
 <div>Supreme Corporation</div> 
-<div>Director of engineering- National Fleets</div>
+<div>Director of engineering - National Fleets</div>
 <div>Cell Phone: 574-202-1695</div> 
 <div>Emails: Weldydean@gmail.com</div>
 
