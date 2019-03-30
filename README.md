@@ -9,8 +9,9 @@
 
 <h3>Full-Stack Developer:</h3>
 <p>
-Result-driven Fullstack Developer with experience in MERN stack.  
-Completed 427 hours of coursework.
+Result-driven Fullstack Developer with experience in MERN stack. 
+Completed projects in Full-Stack Web, IOT, Mobile-Device Accessories, and 
+Automation
 </p>  
 
 <h3>Mechanical Engineer:</h3>
@@ -27,7 +28,7 @@ CFD simulation and computer programming.
 
 
 <h2>HIGHLIGHTED SKILLS</h2>
-<div>Node  -  Express  -  React  -  Redux  -  Apollo  -  GraphQL  -  HTML</div>	                       
+<div>Node  -  Express  -  React  -  Redux  -  Apollo  -  GraphQL  -  HTML</div>	               
 <div>CSS  -  SCSS  -  MongoDB  -  RabbitMQ  -  Regex  -  REST API  -  AWS S3</div>
 <div>Jest  -  Enzyme  -  JWT  -  PostMan</div>
 
@@ -51,6 +52,14 @@ CFD simulation and computer programming.
 <li>Demo Credentials: Available on request</li>
 </ul>
 
+<h4>Title: WingMan</h4>
+<ul>									  
+<li>Description: In-flight navigation aid for wingsuit pilots ( Garmin Fenix 3 )</li>
+<li>Involvement: 100% of code base.</li> 
+<li>Tech Stack: C-Monkey</li>
+<li>Git:  https://github.com/Brad-Tudor-Eng/WingMan.git</li>
+ </ul>
+
 <h4>Title: ReSplash</h4>
 <ul>								      	               	
 <li>Description: UnSplash Clone. Image search with mason style grid layout.</li>
@@ -63,10 +72,24 @@ CFD simulation and computer programming.
 <h4>Title: Gnar Guides</h4>
 <ul>									  
 <li>Description: Sample page layout</li>
-<li>Involvement: 100% of code base and physical device.</li> 
+<li>Involvement: 100% of code base.</li> 
 <li>Tech Stack: HTML, SCSS</li>
 <li>Url: https://gnar-guides.bradtudor.com/</li>
 <li>Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git</li>
+ </ul>
+
+<h4>Title: Cam Shaft Reverse Engineering</h4>
+<ul>									  
+<li>Description: Proprietary Software for reverse engineering camshafts for diesel engines.</li>
+<li>Involvement: 100% of code base.</li> 
+<li>Tech Stack: VBA</li>
+ </ul>
+
+<h4>Title: CAD Automation</h4>
+<ul>									  
+<li>Description: Programmed API's and macros for automating 3d CAD and 2d Drawing Production</li>
+<li>Involvement: Team Effort</li> 
+<li>Tech Stack: JavaScript, SQL, VBA</li>
  </ul>
 
 
