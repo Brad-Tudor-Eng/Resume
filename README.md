@@ -236,6 +236,14 @@ Worked with project engineers to ensure successful on time development of plasti
 
 <h2>PERSONAL REFERENCES</h2>
 
+<h3>Programmers</h3>
+
+<div><b>Marc McDougal (Kilobyte Studios)</b></div>
+<div>Email: marc@kilobytestudios.org</div>
+
+<div><b>Dan Hite</b></div>
+<div>Email: danhite@me.com</div>
+
 <h3>Managers</h3>
 
 <div><b>Dean Weldy</b></div> 
