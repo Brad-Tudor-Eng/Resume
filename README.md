@@ -11,7 +11,7 @@
 <p>
 Result-driven Fullstack Developer with experience in MERN stack. 
 Completed projects in Full-Stack Web, IOT, Mobile-Device Accessories, and 
-Automation
+Automation.
 </p>  
 
 <h3>Mechanical Engineer:</h3>
@@ -44,8 +44,8 @@ CFD simulation and computer programming.
 
 <h4>Title: GrowCtrl</h4>
 <ul>										  
-<li>Description: IOT Automated Greenhouse control and data logger.</li>
-<li>Involvement: 100% of code base and physical device.</li> 
+<li>Description: IOT Automated Greenhouse, control and data logging system.</li>
+<li>Involvement: 100% of code base. Front-end, back-end, and physical device.</li> 
 <li>Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB</li>
 <li>Url: http://growctrl.herokuapp.com/</li>
 <li>Git: https://github.com/Brad-Tudor-Eng/GrowControl</li>
