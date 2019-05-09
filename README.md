@@ -11,7 +11,7 @@
 <p>
 Result-driven Fullstack Developer with experience in MERN stack. 
 Completed projects in Full-Stack Web, IOT, Mobile-Device Accessories, and 
-Automation.
+Automation.  Written code in 10 different languages.
 </p>  
 
 <h3>Mechanical Engineer:</h3>
