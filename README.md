@@ -11,7 +11,7 @@
 <p>
 Result-driven Fullstack Developer with experience in MERN stack. 
 Completed projects in Full-Stack Web, IOT, Mobile-Device Accessories, and 
-Automation.
+Automation.  Written code in 10 different languages.
 </p>  
 
 <h3>Mechanical Engineer:</h3>
@@ -30,7 +30,7 @@ CFD simulation and computer programming.
 <h2>HIGHLIGHTED SKILLS</h2>
 <div>Node  -  Express  -  React  -  Redux  -  Apollo  -  GraphQL  -  HTML</div>	               
 <div>CSS  -  SCSS  -  MongoDB  -  RabbitMQ  -  Regex  -  REST API  -  AWS S3</div>
-<div>Jest  -  Enzyme  -  JWT  -  PostMan</div>
+<div>Jest  -  Enzyme  -  JWT  -  PostMan  -  React Native  -  AJAX  -  HTTP</div>
 
 
 <h2>EXPERIENCE</h2>
