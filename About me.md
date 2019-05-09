@@ -1,5 +1,4 @@
 # About Me
----
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the time of writing this I’ve coded in 10 different languages, built an IOT greenhouse from scratch and written code for web, mobile, and digital accessories.  I have a high level knowledge of JavaScript, focused mainly around web development and the MERN Stack.  But, have also built a complete flight data logger and navigation aid with no prior knowledge of the language or device in under a month.  
 
