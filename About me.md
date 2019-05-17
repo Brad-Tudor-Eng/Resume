@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aside from that, my past as a mechanical engineer can speak for my technical abilities to problem solve and get results.  Over the last 11 years I’ve managed a company’s primary product line, created an award winning product from scratch, and when my current company releases their new website, my latest design will be front and center on the landing page.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have a proven history of being able to take products from ideas to launch, working through tough issues and delivering quality products on time.  Please review my resume to further understand my qualifications.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have a proven history of being able to take products from ideas to launch, working through tough issues and delivering quality products on time.  Please review my resume to further understand my qualifications and contact me at your earliest convenience.  
 
 Thank you,
 
