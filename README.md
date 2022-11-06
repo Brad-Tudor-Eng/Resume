@@ -1,5 +1,7 @@
 <h1>Bradley L. Tudor</h1>
-<p>640 W4th Street Unit: 111, Long Beach CA, 90802</p>
+<div>63333 Storeyhill St., Vandalia MI, 49095</div>
+<div>Fulltime Vanlife (Actual location will vary)</div>
+<div>Last Updated: 11/6/2022</div>
 
 <div>Phone: 574-220-7629</div>
 <div>Email: B6tudor@gmail.com</div>
@@ -9,10 +11,12 @@
 
 <h3>Full-Stack Developer:</h3>
 <p>
-Result-driven Fullstack Developer with experience in MERN stack. 
-Completed projects in Full-Stack Web, IOT, Mobile-Device Accessories, and 
-Automation.  Written code in 10 different languages.
-</p>  
+Successfully built out 3 versions of the recruiting platform as a fullstack developer. 
+Participating in every stage of development from product planning to, data modeling,
+implementation, testing and review.  Designed and built a recommendation system using Neo4j (graph database)
+and a database synchronization layer.  Routinely handled full ownership of feature implementation.
+Built out tools for team metrics tracking.  Mentored one engineer.
+</p>
 
 <h3>Mechanical Engineer:</h3>
 <p>
@@ -20,101 +24,104 @@ Automation.  Written code in 10 different languages.
 Specifically in cradle to grave new product development, continuous product improvement, 
 process automation, manufacturing \ support and warranty analysis.  Experienced in new employee 
 training \ mentorship.  Also extremely proficient in 3d modeling, with good knowledge of FEA, 
-CFD simulation and computer programming.
+CFD simulation and computer programming.  Ended career as Director of Engineering for Stewart Filmscreen.
 </p>
-
 
 <h2>SOFTWARE DEVELOPMENT</h2>
 
-
-<h2>HIGHLIGHTED SKILLS</h2>
-<div>Node  -  Express  -  React  -  Redux  -  Apollo  -  GraphQL  -  HTML</div>	               
-<div>CSS  -  SCSS  -  MongoDB  -  RabbitMQ  -  Regex  -  REST API  -  AWS S3</div>
-<div>Jest  -  Enzyme  -  JWT  -  PostMan  -  React Native  -  AJAX  -  HTTP</div>
-
+<h3>HIGHLIGHTED SKILLS</h3>
+<div>Node.js - MongoDB - Neo4j - GraphQL - Apollo - REST API - Cypress</div>
+<div>Next.js - React - Storybook - Styled-components - Sentry.js - Axios</div>
+<div>Jest - Enzyme - JWT - PostMan - React Native - HTTP</div>
 
 <h2>EXPERIENCE</h2>
 
+<h3>Cluster Inc</h3>
+<div><b>Software Developer</b></div>
+<div><b>Nov 2019 - Present</b></div>
+<p><b>(Fully Remote)</b></p>
 
-<h3>Full-Stack Developer</h3>									                
-<div>June. 2017 – Present</div>
-<div>Self-Employed (Torrence, CA)</div>		        					 
+<div><b>Projects</b></div>
+<div><b>Cluster App</b></div> 
+<p><b>04/2020 - Present</b></p>
 
-<div><b>Completed Projects:</b></div>
+<div>Description: </div>
+<p>Built out 3 iterations of the main app including planning and implemntations of 2 full rebuilds.
+Played major part in every stage of product development process.  Built data syncronization layer
+between MongoDB and Neo4j.  Designed and built recomendation system for sourcing talent using a graph
+databse.  Contributed 68% of all edits to v2 as a full stack developer</p>
+
+<div><b>Tech Stack:</b></div>
+<div>Node - MongoDB - Neo4j - GraphQL - Sentry.js - </div>
+<p>Next.js - Styled-components - Storybook - Axios - Apollo</p>
+
+<div><b>College-Collective</b></div> 
+<div>Active: 12/2019 - 04/2020</div>
+<div>Maintenance: 04/2020 - present</div>
+
+<div><b>Description:</b></div>
+<p>Took the project from planning to launch in 5 months. Contributed 47% of the total codebase, 
+and 90% of the code in the CRM portion of the app.  Contributions were evenly split between 
+both frontend and backend code.  Planned and implemented bulk resource management to 
+speed up resource editing.</p>
+
+<div><b>Tech Stack:</b></div>
+<div>Next.js - Node - MongoDB - Docker - GraphQL - Sentry.js - Styled-components - Cypress.js</div>
+
+<h3><b>Karat</b></h3>
+<div>Expert Interviewer</div>
+<p>09/2019 - 09/2020</p>
+<p>(Fully Remote)</p>
+
+<div><b>Description:</b></div>
+<p>Conducted timed technical interviews for software engineers.  Evaluating them
+through technical questioning and paired programming sessions with coding challenges.</p>
+
+<div><b>Personal Projects:</b></div>
+
+<h4>Title: Git-Data</h4>
+<ul>										  
+<li>Description: Compiles a report of code contribution similar to GitHub insights.</li>
+<li>Involvement: 100% of code base.</li> 
+<li>Tech Stack: Node</li>
+<li>Git: <a href="https://github.com/Brad-Tudor-Eng/git-data">https://github.com/Brad-Tudor-Eng/git-data</a></li>
+</ul>
 
 <h4>Title: GrowCtrl</h4>
 <ul>										  
 <li>Description: IOT Automated Greenhouse, control and data logging system.</li>
 <li>Involvement: 100% of code base. Front-end, back-end, and physical device.</li> 
 <li>Tech Stack: Node, Express, GraphQL Yoga, React, MongoDB</li>
-<li>Url: http://growctrl.herokuapp.com/</li>
-<li>Git: https://github.com/Brad-Tudor-Eng/GrowControl</li>
-<li>Demo Credentials: Available on request</li>
+<li>Git: <a href="https://github.com/Brad-Tudor-Eng/GrowControl">https://github.com/Brad-Tudor-Eng/GrowControl</a></li>
 </ul>
 
-<h4>Title: WingMan</h4>
+<h4 >Title: WingMan</h4>
 <ul>									  
-<li>Description: In-flight navigation aid for wingsuit pilots ( Garmin Fenix 3 )</li>
+<li>Description: (Outdated but proud of it) In-flight navigation aid for wingsuit pilots ( Garmin Fenix 3 )</li>
 <li>Involvement: 100% of code base.</li> 
 <li>Tech Stack: C-Monkey</li>
-<li>Git:  https://github.com/Brad-Tudor-Eng/WingMan.git</li>
- </ul>
-
-<h4>Title: ReSplash</h4>
-<ul>								      	               	
-<li>Description: UnSplash Clone. Image search with mason style grid layout.</li>
-<li>Involvement: 100% of code base. 
-<li>Tech Stack: React, SCSS</li>
-<li>Url: https://resplash.bradtudor.com/</li>
-<li>Git: https://github.com/Brad-Tudor-Eng/ReSplash.git</li>
+<li>Git: <a href="https://github.com/Brad-Tudor-Eng/WingMan.git">https://github.com/Brad-Tudor-Eng/WingMan.git</a></li>
 </ul>
-
-<h4>Title: Gnar Guides</h4>
-<ul>									  
-<li>Description: Sample page layout</li>
-<li>Involvement: 100% of code base.</li> 
-<li>Tech Stack: HTML, SCSS</li>
-<li>Url: https://gnar-guides.bradtudor.com/</li>
-<li>Git: https://github.com/Brad-Tudor-Eng/GnarGuides.git</li>
- </ul>
-
-<h4>Title: Cam Shaft Reverse Engineering</h4>
-<ul>									  
-<li>Description: Proprietary Software for reverse engineering camshafts for diesel engines.</li>
-<li>Involvement: 100% of code base.</li> 
-<li>Tech Stack: VBA</li>
- </ul>
-
-<h4>Title: CAD Automation</h4>
-<ul>									  
-<li>Description: Programmed API's and macros for automating 3d CAD and 2d Drawing Production</li>
-<li>Involvement: Team Effort</li> 
-<li>Tech Stack: JavaScript, SQL, VBA</li>
- </ul>
-
 
 <h2>MECHANICAL ENGINEERING</h2>
 
-
 <h2>HIGHLIGHTED SKILLS</h2>
-<div>Project management  -  New product development  -  Process Improvement  -  Training and Leadership</div>
+<div>Project Management  -  New Product Development  -  Process Improvement  -  Training and Leadership</div>
 <div>Solidworks  -  VBA Programming  -  Rapid Prototyping  -  Plastics Design and Processing</div>
 <div>FEA Analysis  -  Metrology  -  CFD Simulation  -  ASME Y14.5-2009 GD&T</div>
 
-
 <h2>EXPERIENCE</h2>
-
 
 <div><h3>Mechanical Engineer</h3></div>									                
 <div>May. 2017 – Present</div>
-<p>Stewart Filmscreen (Torrence, CA)</p>		        					 
+<p>Stewart Filmscreen (Torrence, CA)</p>
 
 <div><b>Responsibilities:</b></div>
 <p>
-Set Engineering department standards.  New Product Development (Consumer Goods).  
-Redesign existing products reducing manufacturing time and cost.  Automate Engineering drawing process.  
-Develop costing for all products.  Improve manufacturing process efficiency.  
-Advise senior management on corporate improvement projects.
+Served as Director of Engineering for last 2 weeks.  Set Engineering department standards.  
+New Product Development (Consumer Goods).  Redesigned existing products reducing manufacturing time and cost.  
+Automated Engineering drawing process.  Developed costing for all products.  Improved manufacturing process efficiency.  
+Advised senior management on corporate improvement projects.
 </p>
 <div><b>Achievements:</b></div>
 <li>Designed and developed award winning product in less than 3 months.</li>
@@ -122,9 +129,7 @@ Advise senior management on corporate improvement projects.
 <li>Reduced Engineering labor though the automation of drawing process and BOM generation saving over $60k.</li>
 <li>Provided accurate cost for current products though development of automated costing templates.</li>
 <li>Spear headed cross functional initiative to get quick-ship program back on track.</li>
-<li>Reduced inventory and condensed product line by developing one product to replace 5.</li> 
-
-
+<li>Reduced inventory and condensed product line by developing one product to replace 5.</li>
 
 <div><h3>Product Development Engineer</h3></div>									
 <div>Sept 2012 – Apr 2017</div>
@@ -149,11 +154,9 @@ Engineering presentations for improving customer relations.  Training and mentor
 <li>Cut production cost of HP Pins by 50% though purchase of new equipment with 4 month ROI.</li>
 <li>Created a new system to organize the engineering data, reducing redundant work, lost / duplicate files, and confusion.</li>
 
-
-
 <div><h3>S-Body/Product Engineer</h3></div>									
 <div>Dec. 2010 – Sept 2012</div>
-<p>Supreme Corporation (Goshen, IN)</p>		        					 
+<p>Supreme Corporation (Goshen, IN)</p>
 
 <div><b>Responsibilities:</b></div>
 <p>
@@ -170,10 +173,9 @@ Provided technical support for sales and manufacturing at 5 locations nationwide
 <li>Increased engineering output and corporate profits through training and supervision of new employees.</li>
  
 
-
 <div><h3>Engineering Manager</h3></div>										
 <div>Feb. 2009 –Dec 2010</div>
-<p>Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)</p>       					 
+<p>Marson International/Quality Fuel Solutions/Pit Stop Products (Elkhart, IN)</p>
 
 <div><b>Responsibilities:</b></div> 
 <div> 
@@ -188,10 +190,9 @@ Used 3d CAD to develop engineering documentation. Trained and managed 1 employee
       <li>Successfully designed, built fixtures for and launched new deck railing system for recreational vehicles.</li>
 </ul>
 
-
 <div><h3>Automotive Engineering Internship (Paid)</h3></div>							
 <div>Dec. 2006 – July 2008</div>	               
-<p>Summit Polymers (Portage, MI)</p>                          	
+<p>Summit Polymers (Portage, MI)</p>
 
 <div><b>Responsibilities:</b></div>
 <p>
@@ -204,7 +205,6 @@ Worked with project engineers to ensure successful on time development of plasti
       <li>Successfully met tight prototype delivery deadlines by training and managing teams of up to 8 people.</li>
       <li>Cut production cost though implementation of new corporate design standards.</li>
 </ul>
-
 
 <h2>EDUCATION</h2>
 <p>
@@ -232,7 +232,6 @@ Worked with project engineers to ensure successful on time development of plasti
       <li>NAUI Dive Master Certification</li>
       <li>USPA IAD Instructor Certification</li>										
 </ul>
-
 
 <h2>PERSONAL REFERENCES</h2>
 
@@ -265,7 +264,7 @@ Worked with project engineers to ensure successful on time development of plasti
 
 <div><b>Mike Franks</b></div>
 <div>Product Engineer at PAI Industries</div>
-<div>Personal Phone: 678 – 446 – 6306</div> 
+<div>Personal Phone: 678 – 446 – 6306</div>
 
 <div><b>Jim Thelen</b></div>
 <div>Assembly Manager at PAI Industries</div>
