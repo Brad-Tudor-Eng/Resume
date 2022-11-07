@@ -36,7 +36,7 @@ CFD simulation and computer programming.  Ended career as Director of Engineerin
 
 <h2>EXPERIENCE</h2>
 
-<h3>Cluster Inc</h3>
+<div><h3>Cluster Inc</h3></div>
 <div>Software Developer</div>
 <div>Nov 2019 - Present</div>
 <p>(Fully Remote)</p>
@@ -68,7 +68,7 @@ speed up resource editing.</p>
 <div><b>Tech Stack:</b></div>
 <div>Next.js - Node - MongoDB - Docker - GraphQL - Sentry.js - Styled-components - Cypress.js</div>
 
-<h3><b>Karat</b></h3>
+<div><h3><b>Karat</b></h3></div>
 <div>Expert Interviewer</div>
 <div>09/2019 - 09/2020</div>
 <p>(Fully Remote)</p>
@@ -232,40 +232,3 @@ Worked with project engineers to ensure successful on time development of plasti
       <li>NAUI Dive Master Certification</li>
       <li>USPA IAD Instructor Certification</li>										
 </ul>
-
-<h2>PERSONAL REFERENCES</h2>
-
-<h3>Programmers</h3>
-
-<div><b>Marc McDougal (Kilobyte Studios)</b></div>
-<div>Email: marc@kilobytestudios.org</div>
-
-<div><b>Dan Hite</b></div>
-<div>Email: danhite@me.com</div>
-
-<h3>Managers</h3>
-
-<div><b>Dean Weldy</b></div> 
-<div>Supreme Corporation</div> 
-<div>Director of engineering - National Fleets</div>
-<div>Cell Phone: 574-202-1695</div> 
-<div>Emails: Weldydean@gmail.com</div>
-
-<h3>Co-Workers</h3>
-
-<div><b>Kevin Mcglynn</b></div>
-<div>Mechanical Engineer at Stewart Filmscreen</div>
-<div>Personal Phone: 310-462-5465</div>
-
-<div><b>John Harris</b></div>
-<div>Development Engineer at Yamaha Motor Corporation, USA</div>
-<div>Personal Phone: 404-579-2642</div>
-<div>E-mail: john.harris16@gmail.com</div>
-
-<div><b>Mike Franks</b></div>
-<div>Product Engineer at PAI Industries</div>
-<div>Personal Phone: 678 – 446 – 6306</div>
-
-<div><b>Jim Thelen</b></div>
-<div>Assembly Manager at PAI Industries</div>
-<div>Personal Phone: 678-699-7012</div>
