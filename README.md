@@ -37,15 +37,15 @@ CFD simulation and computer programming.  Ended career as Director of Engineerin
 <h2>EXPERIENCE</h2>
 
 <h3>Cluster Inc</h3>
-<div><b>Software Developer</b></div>
-<div><b>Nov 2019 - Present</b></div>
-<p><b>(Fully Remote)</b></p>
+<div>Software Developer</div>
+<div>Nov 2019 - Present</div>
+<p>(Fully Remote)</p>
 
 <div><b>Projects</b></div>
 <div><b>Cluster App</b></div> 
 <p><b>04/2020 - Present</b></p>
 
-<div>Description: </div>
+<div><b>Description:</b></div>
 <p>Built out 3 iterations of the main app including planning and implemntations of 2 full rebuilds.
 Played major part in every stage of product development process.  Built data syncronization layer
 between MongoDB and Neo4j.  Designed and built recomendation system for sourcing talent using a graph
@@ -57,7 +57,7 @@ databse.  Contributed 68% of all edits to v2 as a full stack developer</p>
 
 <div><b>College-Collective</b></div> 
 <div>Active: 12/2019 - 04/2020</div>
-<div>Maintenance: 04/2020 - present</div>
+<p>Maintenance: 04/2020 - present</p>
 
 <div><b>Description:</b></div>
 <p>Took the project from planning to launch in 5 months. Contributed 47% of the total codebase, 
@@ -70,7 +70,7 @@ speed up resource editing.</p>
 
 <h3><b>Karat</b></h3>
 <div>Expert Interviewer</div>
-<p>09/2019 - 09/2020</p>
+<div>09/2019 - 09/2020</div>
 <p>(Fully Remote)</p>
 
 <div><b>Description:</b></div>
@@ -105,7 +105,7 @@ through technical questioning and paired programming sessions with coding challe
 
 <h2>MECHANICAL ENGINEERING</h2>
 
-<h2>HIGHLIGHTED SKILLS</h2>
+<h3>HIGHLIGHTED SKILLS</h3>
 <div>Project Management  -  New Product Development  -  Process Improvement  -  Training and Leadership</div>
 <div>Solidworks  -  VBA Programming  -  Rapid Prototyping  -  Plastics Design and Processing</div>
 <div>FEA Analysis  -  Metrology  -  CFD Simulation  -  ASME Y14.5-2009 GD&T</div>
