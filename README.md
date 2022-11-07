@@ -1,7 +1,7 @@
 <h1>Bradley L. Tudor</h1>
 <div>63333 Storeyhill St., Vandalia MI, 49095</div>
 <div>Fulltime Vanlife (Actual location will vary)</div>
-<div>Last Updated: 11/6/2022</div>
+<p>Last Updated: 11/6/2022</p>
 
 <div>Phone: 574-220-7629</div>
 <div>Email: B6tudor@gmail.com</div>
