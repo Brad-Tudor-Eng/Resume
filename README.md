@@ -5,26 +5,19 @@
 
 <div>Phone: 574-220-7629</div>
 <div>Email: B6tudor@gmail.com</div>
-<div>Website: <a href="https://bradtudor.com">https://bradtudor.com</a></div>
+
 
 <h2>QUALIFICATIONS SUMMARY:</h2>
 
-<h3>Full-Stack Developer:</h3>
 <p>
-Successfully built out 3 versions of the recruiting platform as a fullstack developer. 
-Participating in every stage of development from product planning to, data modeling,
-implementation, testing and review.  Designed and built a recommendation system using Neo4j (graph database)
-and a database synchronization layer.  Routinely handled full ownership of feature implementation.
-Built out tools for team metrics tracking.  Mentored one engineer.
-</p>
-
-<h3>Mechanical Engineer:</h3>
-<p>
-10 years of industry experience successfully leading projects.  
-Specifically in cradle to grave new product development, continuous product improvement, 
-process automation, manufacturing \ support and warranty analysis.  Experienced in new employee 
-training \ mentorship.  Also extremely proficient in 3d modeling, with good knowledge of FEA, 
-CFD simulation and computer programming.  Ended career as Director of Engineering for Stewart Filmscreen.
+With 13 years of diverse engineering experience, I possess a unique combination of technical expertise 
+and leadership capabilities. I have successfully designed and built complex systems, mentored technical 
+teams, and driven continuous product improvement while staying up-to-date with the latest technological 
+advancements. My proficiency in process automation, manufacturing, and warranty analysis highlights my 
+ability to manage complex projects and ensure efficient workflows. As a Director of Engineering, I have 
+honed my leadership skills, mentored new employees, and created a positive work environment. With 
+experience in a startup environment, I have demonstrated versatility, adaptability, 
+and innovation in dynamic settings.
 </p>
 
 <h2>SOFTWARE DEVELOPMENT</h2>
@@ -46,27 +39,23 @@ CFD simulation and computer programming.  Ended career as Director of Engineerin
 <p><b>04/2020 - Present</b></p>
 
 <div><b>Description:</b></div>
-<p>Built out 3 iterations of the main app including planning and implemntations of 2 full rebuilds.
-Played major part in every stage of product development process.  Built data syncronization layer
-between MongoDB and Neo4j.  Designed and built recomendation system for sourcing talent using a graph
-databse.  Contributed 68% of all edits to v2 as a full stack developer</p>
+<p>Engineering recruiting platform specifically focused on the Mechanical / Electrical Engineering vertical.</p>
 
-<div><b>Tech Stack:</b></div>
-<div>Node - MongoDB - Neo4j - GraphQL - Sentry.js - </div>
-<p>Next.js - Styled-components - Storybook - Axios - Apollo</p>
+<div><b>Responsibilities:</b></div>
+<p>Guided technical development of the SAAS product.  Served as Software Architect designing and implementing critical systems.  
+Authored 50% of codebase as a full-stack developer.  Designed connections to third-party integrations.  Built recommendation 
+system from scratch</p>
+
 
 <div><b>College-Collective</b></div> 
 <div>Active: 12/2019 - 04/2020</div>
 <p>Maintenance: 04/2020 - present</p>
 
 <div><b>Description:</b></div>
-<p>Took the project from planning to launch in 5 months. Contributed 47% of the total codebase, 
-and 90% of the code in the CRM portion of the app.  Contributions were evenly split between 
-both frontend and backend code.  Planned and implemented bulk resource management to 
-speed up resource editing.</p>
+<p>Search platform for finding affordable degrees from online community colleges.</p>
 
-<div><b>Tech Stack:</b></div>
-<div>Next.js - Node - MongoDB - Docker - GraphQL - Sentry.js - Styled-components - Cypress.js</div>
+<div><b>Responsibilities:</b></div>
+<p>Full stack development of API and frontend features of the CRM portion of the app.  Development of API search algorithm.  Joint development of user facing frontend.</p>
 
 <div><h3><b>Karat</b></h3></div>
 <div>Expert Interviewer</div>
@@ -74,9 +63,13 @@ speed up resource editing.</p>
 <p>(Fully Remote)</p>
 
 <div><b>Description:</b></div>
-<p>Conducted timed technical interviews for software engineers.  Evaluating them
-through technical questioning and paired programming sessions with coding challenges.</p>
+<p>Lead technical remote interviews for various software companies</p>
 
+<div><b>Responsibilities:</b></div>
+<p> Lead technical interviews serving as a subject matter expert in several programming languages.  Assessed code quality in live paired programming sessions.  Managed 
+schedule for conducting remote interviews. </p>
+
+<h2>MECHANICAL ENGINEERING</h2>
 <h2>EXPERIENCE</h2>
 
 <div><h3>Mechanical Engineer</h3></div>									                
